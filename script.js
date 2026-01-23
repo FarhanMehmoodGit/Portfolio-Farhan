@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const mainContent = document.getElementById('main-content');
     
     // Custom Boot Message
-    const introStr = "HI. I'M FARHAN,\nA FULL STACK WEB DEVELOPER\nI BUILD WEBSITES EXACTLY HOW YOU WANT";
+    const introStr = "HI. I'M FARHAN,\nA FULL STACK WEB DEVELOPER\nI BUILD WEBSITES EXACTLY WHAT AND HOW YOU WANT";
     let charIdx = 0;
 
     function typeBoot() {
